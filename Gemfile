@@ -38,9 +38,7 @@ group :production do
   gem 'rails_12factor'
 end
 
-group :doc do
-  gem 'sdoc', require: false
-end
+
 # gem 'bcrypt', '~> 3.1.7'
 
 # Use unicorn as the app server
